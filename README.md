@@ -4,13 +4,13 @@ Welcome to my GitHub profile! I’m Muzammel Qureshi, a passionate data enthusia
 
 **🚀 About Me**
 
-I currently work at Dentsu Posterscope India as part of the Data and Strategy Team in the Out-of-Home (OOH) Advertising domain. My role involves:
+I currently work at **Dentsu Posterscope India** as part of the **Data and Strategy Team** in the **Out-of-Home (OOH) Advertising domain**. My role involves:
 
-Data Cleaning: Ensuring data accuracy and usability for analysis and reporting.
+**Data Cleaning**: Ensuring data accuracy and usability for analysis and reporting.
 
-Campaign Deliverables: Collaborating with our tech partner Moving Walls to evaluate campaigns.
+**Campaign Deliverables**: Collaborating with our tech partner Moving Walls to evaluate campaigns.
 
-Proprietary Tool Expertise: Utilizing OOHZONE for creating media PPTs, plotting sites, and managing media site ID creation.
+**Proprietary Tool Expertise**: Utilizing OOHZONE for creating media PPTs, plotting sites, and managing media site ID creation.
 
 With my work, I bridge the gap between data, strategy, and effective media planning.
 
@@ -18,25 +18,25 @@ With my work, I bridge the gap between data, strategy, and effective media plann
 
 To enhance my data expertise, I have developed strong technical skills, including:
 
-Programming & Data Manipulation: SQL, Python, NumPy, pandas
+Programming & Data Manipulation: **SQL, Python, NumPy, pandas**
 
-Data Visualization: Matplotlib, Seaborn, Tableau
+Data Visualization: **Matplotlib, Seaborn, Tableau**
 
-Advanced Excel: Proficiency in Excel for data analysis and reporting
+Advanced Excel: **Proficiency in Excel for data analysis and reporting**
 
-Statistics: Strong foundation in statistical concepts for data interpretation
+Statistics: **Strong foundation in statistical concepts for data interpretation**
 
-Tools & Platforms: Google Colab for collaborative data analysis
+Tools & Platforms: **Google Colab for collaborative data analysis**
 
 📂 **Projects**
 
 In my repository, you’ll find a range of projects showcasing my skills in data analysis and visualization. Some highlights include:
 
-Sales Data Analysis: Cleaning, analyzing, and generating insights from retail sales data
+**Sales Data Analysis**: Cleaning, analyzing, and generating insights from retail sales data
 
-Data Visualization: Creating impactful charts and graphs using Python libraries
+**Data Visualization**: Creating impactful charts and graphs using Python libraries
 
-Campaign Evaluations: Data-driven strategies for OOH campaigns
+**Campaign Evaluations**: Data-driven strategies for OOH campaigns
 
 These projects demonstrate my ability to analyze complex datasets and provide actionable recommendations.
 
